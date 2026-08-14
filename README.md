@@ -133,15 +133,11 @@ These insights can help businesses make more informed, data-driven decisions.
 
 Add your dashboard screenshot here:
 
-```text
-Screenshots/Blinkit.png
-```
 
-You can also add the image using:
+## 📷 Dashboard Preview
 
-```markdown
-![Blinkit Smart Analytics Dashboard](Screenshots/dashboard.png)
-```
+![Blinkit Smart Analytics Dashboard](Blinkit.png)
+
 
 ---
 
